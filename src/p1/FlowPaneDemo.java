@@ -24,7 +24,7 @@ public class FlowPaneDemo extends Application {
 
         // Middle initial label and field
         TextField tfMI = new TextField();
-        // Allow only one character is this field
+        // Show only one character is this field
         tfMI.setPrefColumnCount(1);
         pane.getChildren().addAll(new Label("MI:"), tfMI);
 
