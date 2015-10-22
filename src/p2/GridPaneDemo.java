@@ -46,7 +46,7 @@ public class GridPaneDemo extends Application {
 		Scene scene = new Scene(pane);
 		
 		// Set the stage up, put the scene on the stage and show it
-		primaryStage.setTitle("Flow Pane Demo");
+		primaryStage.setTitle("Grid Pane Demo");
 		primaryStage.setScene(scene);
 		primaryStage.show();	
 	}
