@@ -77,7 +77,3 @@ public class ButtonListenerDemo1 extends Application {
 		}
 	}
 }
-
-
-
-
