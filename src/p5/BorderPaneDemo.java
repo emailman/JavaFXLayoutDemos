@@ -40,7 +40,7 @@ public class BorderPaneDemo extends Application {
         Button btnYellow = new Button("YELLOW");
         btnYellow.setPrefWidth(100);
 
-        Button btnGreen = new Button("GREEN ");
+        Button btnGreen = new Button("GREEN");
         btnGreen.setPrefWidth(100);
 
         vBox.getChildren().addAll(btnRed, btnYellow, btnGreen);
